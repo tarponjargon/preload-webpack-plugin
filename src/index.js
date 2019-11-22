@@ -32,6 +32,8 @@ class PreloadPlugin {
     const options = this.options;
 
     // Bail out early if we're configured to exclude this HTML file.
+    console.log('options.excludeHtmlNames', options.excludeHtmlNames);
+    console.log('htmlPluginData.plugin.options.filename', htmlPluginData.plugin.options.filename);
     if (options.excludeHtmlNames.includes(htmlPluginData.plugin.options.filename)) {
       return htmlPluginData;
     }

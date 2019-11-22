@@ -5,12 +5,12 @@
   "author": "Addy Osmani <addy.osmani@gmail.com> (https://github.com/addyosmani)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/googlechromelabs/preload-webpack-plugin/issues"
+    "url": "https://github.com/tarponjargon/preload-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/googlechromelabs/preload-webpack-plugin",
+  "homepage": "https://github.com/tarponjargon/preload-webpack-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlechromelabs/preload-webpack-plugin.git"
+    "url": "https://github.com/tarponjargon/preload-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
